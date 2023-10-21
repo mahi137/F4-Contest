@@ -39,7 +39,7 @@ const Footer = () => {
         <a href="https://github.com/Mahi135">
           <img src={github} alt="git" />
         </a>
-        <a href="https://www.linkedin.com/in/mohid-shaik-15a6a3233/">
+        <a href="https://www.linkedin.com/in/mahi-15a6a4233/">
           <img src={linkedin} alt="linkedin" />
         </a>
         <a href="mailto:msdmahi@gmail.com">
